@@ -1,0 +1,16 @@
+C:\Users\dhruv\source\repos\Houseplanto\Houseplanto\Houseplanto\bin\Debug\netstandard2.0\Houseplanto.deps.json
+C:\Users\dhruv\source\repos\Houseplanto\Houseplanto\Houseplanto\bin\Debug\netstandard2.0\Houseplanto.dll
+C:\Users\dhruv\source\repos\Houseplanto\Houseplanto\Houseplanto\bin\Debug\netstandard2.0\Houseplanto.pdb
+C:\Users\dhruv\source\repos\Houseplanto\Houseplanto\Houseplanto\obj\Debug\netstandard2.0\Houseplanto.csprojAssemblyReference.cache
+C:\Users\dhruv\source\repos\Houseplanto\Houseplanto\Houseplanto\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\dhruv\source\repos\Houseplanto\Houseplanto\Houseplanto\obj\Debug\netstandard2.0\Views\AboutPage.xaml.g.cs
+C:\Users\dhruv\source\repos\Houseplanto\Houseplanto\Houseplanto\obj\Debug\netstandard2.0\Views\ItemDetailPage.xaml.g.cs
+C:\Users\dhruv\source\repos\Houseplanto\Houseplanto\Houseplanto\obj\Debug\netstandard2.0\Views\ItemsPage.xaml.g.cs
+C:\Users\dhruv\source\repos\Houseplanto\Houseplanto\Houseplanto\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
+C:\Users\dhruv\source\repos\Houseplanto\Houseplanto\Houseplanto\obj\Debug\netstandard2.0\Views\NewItemPage.xaml.g.cs
+C:\Users\dhruv\source\repos\Houseplanto\Houseplanto\Houseplanto\obj\Debug\netstandard2.0\Houseplanto.csproj.CoreCompileInputs.cache
+C:\Users\dhruv\source\repos\Houseplanto\Houseplanto\Houseplanto\obj\Debug\netstandard2.0\Houseplanto.AssemblyInfoInputs.cache
+C:\Users\dhruv\source\repos\Houseplanto\Houseplanto\Houseplanto\obj\Debug\netstandard2.0\Houseplanto.AssemblyInfo.cs
+C:\Users\dhruv\source\repos\Houseplanto\Houseplanto\Houseplanto\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\dhruv\source\repos\Houseplanto\Houseplanto\Houseplanto\obj\Debug\netstandard2.0\Houseplanto.dll
+C:\Users\dhruv\source\repos\Houseplanto\Houseplanto\Houseplanto\obj\Debug\netstandard2.0\Houseplanto.pdb
